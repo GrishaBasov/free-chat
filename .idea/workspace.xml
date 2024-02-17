@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Add vercel json">
+    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Add vercel json new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/longpulling.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/vercel.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
       <recent name="$PROJECT_DIR$/client/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/server/api" />
       <recent name="$PROJECT_DIR$/client/src/long-pulling" />
       <recent name="$PROJECT_DIR$/client/src/event-sourcing" />
@@ -64,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708089471597</updated>
       <workItem from="1708089472748" duration="7657000" />
-      <workItem from="1708162410478" duration="10271000" />
+      <workItem from="1708162410478" duration="11427000" />
     </task>
     <task id="LOCAL-00001" summary="Create react app">
       <option name="closed" value="true" />
@@ -162,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708182888935</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add vercel json new">
+      <option name="closed" value="true" />
+      <created>1708183841815</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708183841815</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="Add long pulling add vercel json" />
     <MESSAGE value="Delete vercel json" />
     <MESSAGE value="Add vercel json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add vercel json" />
+    <MESSAGE value="Add vercel json new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add vercel json new" />
   </component>
 </project>
