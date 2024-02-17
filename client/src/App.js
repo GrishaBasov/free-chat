@@ -3,10 +3,10 @@ import { EventSourcing } from "./event-sourcing/EventSourcing";
 
 function App() {
   return (
-    <div>
+    <>
       <LongPulling />
       {/*<EventSourcing/>*/}
-    </div>
+    </>
   );
 }
 

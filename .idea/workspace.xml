@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Init server">
-      <change afterPath="$PROJECT_DIR$/client/src/event-sourcing/EventSourcing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/long-pulling/LongPulling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eventsource.js" afterDir="false" />
+    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Add long pulling adn event sourcing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/longpulling.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/longpulling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708089471597</updated>
       <workItem from="1708089472748" duration="7657000" />
-      <workItem from="1708162410478" duration="5618000" />
+      <workItem from="1708162410478" duration="6769000" />
     </task>
     <task id="LOCAL-00001" summary="Create react app">
       <option name="closed" value="true" />
@@ -106,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708090626118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add long pulling adn event sourcing">
+      <option name="closed" value="true" />
+      <created>1708168861195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708168861195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create react app" />
     <MESSAGE value="Init server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init server" />
+    <MESSAGE value="Add long pulling adn event sourcing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add long pulling adn event sourcing" />
   </component>
 </project>
