@@ -11,7 +11,9 @@ export const LongPulling = () => {
 
   const subscribe = async () => {
     try {
-      const { data } = await axios.get("http://localhost:3000/get-message");
+      const { data } = await axios.get(
+        "https://free-chat-two.vercel.app/get-message",
+      );
       await setMessages((prev) => [data, ...prev]);
       await setValue("");
       await subscribe();
@@ -24,7 +26,7 @@ export const LongPulling = () => {
   };
 
   const sendMessage = async (value) => {
-    await axios.post("http://localhost:3000/post-message", {
+    await axios.post("https://free-chat-two.vercel.app/post-message", {
       message: value,
       id: Date.now(),
     });
