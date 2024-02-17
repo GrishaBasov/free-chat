@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Add long pulling add vercel json">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/vercel.json" beforeDir="false" />
+    <list default="true" id="e7c16b69-d289-4a8f-aee0-bf00dbe4d947" name="Changes" comment="Delete vercel json">
+      <change afterPath="$PROJECT_DIR$/server/vercel.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708089471597</updated>
       <workItem from="1708089472748" duration="7657000" />
-      <workItem from="1708162410478" duration="8997000" />
+      <workItem from="1708162410478" duration="9362000" />
     </task>
     <task id="LOCAL-00001" summary="Create react app">
       <option name="closed" value="true" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708181961223</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Delete vercel json">
+      <option name="closed" value="true" />
+      <created>1708182541907</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708182541907</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,7 @@
     <MESSAGE value="Add long pulling adn event sourcing" />
     <MESSAGE value="Add long pulling add event sourcing" />
     <MESSAGE value="Add long pulling add vercel json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add long pulling add vercel json" />
+    <MESSAGE value="Delete vercel json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete vercel json" />
   </component>
 </project>
